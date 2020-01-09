@@ -1,0 +1,22 @@
+h1 {
+    color: rgba(200,0,200,.5);
+    /* border-color: purple;
+    border-width: 5px;
+    border-style: dotted; */
+    /*background-color: navy;*/
+    border: purple 2px solid;
+}
+
+li{
+    color: green;
+}
+h4 {
+   background: orange;
+}
+
+body{
+    background: pink;
+    /* background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk7oTfDpDONEbKzxTglTeRZjwuP-qjKzyroWxQer05BD7YbXinKA&s);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
